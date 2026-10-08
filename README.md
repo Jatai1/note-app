@@ -2,7 +2,7 @@
 
 A simple note-taking app built with vanilla JavaScript. Notes are saved in the browser, so they are still there after a refresh.
 
-git@github.com:Jatai1/note-app.git
+[Live Demo](https://jatai1.github.io/note-app/)
 
 ## Features
 
